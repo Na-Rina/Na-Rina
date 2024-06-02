@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - SQL 개발자(SQLD)
 - Google 애널리틱스 Individual Qualification
 - Google Ads Search Certification
-- 
+  
 ### 주요 이력
 - NIA, 2022년 월드프렌즈코리아 ICT봉사단 (마다가스카르대학교, 데이터분석)
 - 한국외국어대학교 학보사 차장 기자
