@@ -1,18 +1,17 @@
 ## Hi there 👋
 
+## Hi there 👋
+
 <!--
 **Na-Rina/Na-Rina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## Hi there 👋
-
-
-안녕하세요, 저는 나리나입니다.
+안녕하세요, 저에 대해 소개합니다!
 
 현재 한국외국어대학교 국제지역대학 프랑스학과 학사 재학 중이며, AI융합전공(Software & AI)을 함께 공부하고 있습니다.
 
-### 주요 레포지토리
+### 주요 프로젝트
 - **NLP_Paper_study Public**: This is a resource for analyzing NLP research papers. (Updated now)
 - **ML_project Public**: This is a collection of ML projects. Correlation Between Mood and Weather/Wine Data Analysis/House Price Prediction (Updated 8 minutes ago)
 - **Privacy_NLP Public**: Privacy-Preserving Conversational System Modeling: An NLP Study (Jupyter Notebook, Updated 10 minutes ago)
@@ -44,6 +43,8 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on innovative AI projects.
 🤔 I’m looking for help with expanding my research in AI.
 💬 Ask me about anything related to AI, data analysis, and NLP.
-📫 How to reach me: [Your Contact Information]
+📫 How to reach me: skery@naver.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love exploring new AI technologies and their applications in various fields.
+
+
