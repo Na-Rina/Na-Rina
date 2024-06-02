@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ### 주요 데이터 관련 자격증
 - 데이터분석 준전문가(ADsP)
 - SQL 개발자(SQLD)
+- 컴퓨터 활용 능력2급
 - Google 애널리틱스 Individual Qualification
 - Google Ads Search Certification
   
