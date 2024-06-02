@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ### 주요 취미
 - 글을 쓰고 영상 만드는 것을 좋아합니다.
-- 서브웨이 광고 영상: https://www.youtube.com/watch?v=tn8hCqzPe34
-- 벚꽃 쇼츠 영상: https://www.youtube.com/shorts/VJVi0a54_3s
+- 서브웨이 광고 영상: https://www.youtube.com/watch?v=tn8hCqzPe34 (Adobe-After Effect)
+- 벚꽃 쇼츠 영상: https://www.youtube.com/shorts/VJVi0a54_3s (Adobe-Premiere Pro)
 
 ### 주요 블로그
 - 기술 블로그 주소: https://velog.io/@skery/posts
