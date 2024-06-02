@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 - 2022 송파구 국회의원 남인순 우수상
 - 2024 '기업경영 전문가의 기업상담에 대한 인식 및 활성화에 관한 연구' 논문 작성
 
+### 주요 취미
+- 글을 쓰고 영상 만드는 것을 좋아합니다.
+- 서브웨이 광고 영상: https://www.youtube.com/watch?v=tn8hCqzPe34
+- 벚꽃 쇼츠 영상: https://www.youtube.com/shorts/VJVi0a54_3s
+
 ### 주요 블로그
 - 기술 블로그 주소: https://velog.io/@skery/posts
 - 기자 활동 주소: http://www.hufspress.net/search.php?action=search&search_writer=%EB%82%98%EB%A6%AC%EB%82%98&page=1
