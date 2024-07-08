@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 데이터분석 준전문가(ADsP)
 - SQL 개발자(SQLD)
 - 컴퓨터 활용 능력2급
+- 정보처리기사
 - Google 애널리틱스 Individual Qualification
 - Google Ads Search Certification
   
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 - 민주화운동기념사업회 2021 민주주의 학습 커뮤니티 최우수상 (민주혜움, 스웨덴 민주주의를 통해 바라본 한반도 평화의 민주적 가치)
 - 2021 통일부 장관상 최우수상
 - 2022 송파구 국회의원 남인순 우수상
-- 2024 '기업경영 전문가의 기업상담에 대한 인식 및 활성화에 관한 연구' 논문 작성
+- 2024 '기업경영 전문가의 기업상담에 대한 인식 및 활성화에 관한 연구' 논문 작성 제 2저자 (통계학 및 사회조사, 경영)
 
 ### 주요 취미
 - 글을 쓰고 영상 만드는 것을 좋아합니다.
