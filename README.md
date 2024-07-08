@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 정보처리기사
 - Google 애널리틱스 Individual Qualification
 - Google Ads Search Certification
+- TOEIC, OPIC, FLEX 프랑스어
   
 ### 주요 이력
 - NIA, 2022년 월드프렌즈코리아 ICT봉사단 (마다가스카르대학교, 데이터분석)
