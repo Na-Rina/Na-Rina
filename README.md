@@ -8,16 +8,16 @@ Here are some ideas to get you started:
 현재 한국외국어대학교 국제지역대학 프랑스학과 학사 재학 중이며, AI융합전공(Software & AI)을 함께 공부하고 있습니다.
 
 ### 주요 레포지토리
-- **Reinforcement-Learning-Project Public**: Reinforcement Learning Project for Grocery Cart Optimization through Classification of Refrigerator Contents.
-- **Linux_Prompt Private**: This project is based on prompt engineering to correct Linux commands. 
-- **nongsan_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis.
-- **Electronic_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis.
-- **NLP_Paper_study Public**: This is a resource for analyzing NLP research papers. 
-- **ML_project Public**: This is a collection of ML projects. Correlation Between Mood and Weather/Wine Data Analysis/House Price Prediction.
+- **Reinforcement-Learning-Project Public**: Reinforcement Learning Project for Grocery Cart Optimization through Classification of Refrigerator Contents. (Backend, ML, AWS)
+- **Linux_Prompt Private**: This project is based on prompt engineering to correct Linux commands. (AI, GCP)
+- **nongsan_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis. (ML)
+- **Electronic_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis. (ML)
+- **NLP_Paper_study Public**: This is a resource for analyzing NLP research papers. (AI)
+- **ML_project Public**: This is a collection of ML projects. Correlation Between Mood and Weather/Wine Data Analysis/House Price Prediction. (ML)
 - **Privacy_NLP Public**: Privacy-Preserving Conversational System Modeling: An NLP Study.
-- **NLP_BASIC Public**
-- **LSTM_BASIC Public**
-- **Crawling Private**
+- **NLP_BASIC Public** (AI)
+- **LSTM_BASIC Public** (ML)
+- **Crawling Private** (DATA)
 
 ### 학력
 - 한국외국어대학교 국제지역대학 프랑스학과 학사 재학 (지역학사)
