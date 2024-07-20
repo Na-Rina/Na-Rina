@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 2022 송파구 국회의원 남인순 우수상
 - 2024 '기업경영 전문가의 기업상담에 대한 인식 및 활성화에 관한 연구' 논문 작성 제 2저자 (통계학 및 사회조사, 경영)
 
-### 기자, 아나운서 활동 이력
+### 정부 관련 기자, 아나운서 활동 이력
 - 통일부 주최 Korea Global Forum For Peace 현장 기자 (행정안전부 산하 민주화운동기념사업회 소속)
 - Asia-Pacific Young Leaders Forum, Jeju 현장 기자
 - 통일부 주최 DMZ Global Forum 현장 기자 (행정안전부 산하 민주화운동기념사업회 소속)
