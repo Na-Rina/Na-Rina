@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - **Electronic_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis. (ML)
 - **NLP_Paper_study Public**: This is a resource for analyzing NLP research papers. (AI)
 - **ML_project Public**: This is a collection of ML projects. Correlation Between Mood and Weather/Wine Data Analysis/House Price Prediction. (ML)
-- **Privacy_NLP Public**: Privacy-Preserving Conversational System Modeling: An NLP Study.
+- **Privacy_NLP Public**: Privacy-Preserving Conversational System Modeling: An NLP Study. (AI)
 - **NLP_BASIC Public** (AI)
 - **LSTM_BASIC Public** (ML)
 - **Crawling Private** (DATA)
