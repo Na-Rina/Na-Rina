@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 ### 주요 활동 이력 (학내)
 - 2022 한국외국어대학교 총장 산하 기관 학보사 차장 기자 활동 
 - 2022 한국외국어대학교 총장 산하 기관 학보사 정기자 대상 여름방학 교육 진행 및 운영
-- 2022 ~ 2023 한국외국어대학교 법학동아리 활동 
-- 2022 한국외국어대학교 언론장학금 수혜
+- 2022-1, 2022-2 한국외국어대학교 언론장학금 수혜
+- 2022 ~ 2023 한국외국어대학교 공식 법학동아리 활동 
+- 2024 한국외국어대학교 영상 동아리 'Insert' 활동
 
   
 ### 정부 소속 기자, 아나운서 활동 이력 
@@ -66,7 +67,6 @@ Here are some ideas to get you started:
 
 ### 주요 취미
 - 글을 쓰고 영상 만드는 것을 좋아합니다.
-- 한국외국어대학교 영상 동아리 'Insert' 소속
 - 서브웨이 광고 영상: https://www.youtube.com/watch?v=tn8hCqzPe34 (Adobe-After Effect)
 - 벚꽃 쇼츠 영상: https://www.youtube.com/shorts/VJVi0a54_3s (Adobe-Premiere Pro)
 
