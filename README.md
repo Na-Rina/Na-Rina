@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - 벚꽃 쇼츠 영상: https://www.youtube.com/shorts/VJVi0a54_3s (Adobe-Premiere Pro)
 
 ### 주요 블로그
-- 기술 블로그 주소: https://velog.io/@skery/posts
+- 기술 블로그 주소: https://rinadevelop.tistory.com/, https://velog.io/@skery/posts
 - 기자 활동 주소: http://www.hufspress.net/search.php?action=search&search_writer=%EB%82%98%EB%A6%AC%EB%82%98&page=1
 - 서평 작성 주소: https://brunch.co.kr/@lumieredetout
 
