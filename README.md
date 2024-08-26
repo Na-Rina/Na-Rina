@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 현재 한국외국어대학교 국제지역대학 프랑스학과 학사 재학 중이며, AI융합전공(Software & AI)을 함께 공부하고 있습니다.
 
 ### 주요 레포지토리
+- ****: QGIS is used to visualize and map safe Wi-Fi networks by analyzing spatial data from Seoul's public Wi-Fi access points. (Data, AI, QGIS)
 - **Reinforcement-Learning-Project Public**: Reinforcement Learning Project for Grocery Cart Optimization through Classification of Refrigerator Contents. (Backend, ML, AWS)
 - **Linux_Prompt Private**: This project is based on prompt engineering to correct Linux commands. (AI, GCP)
 - **nongsan_LSTM Public**: This project predicts agricultural prices using LSTM and time series analysis. (ML)
